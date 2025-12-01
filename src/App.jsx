@@ -75,7 +75,7 @@ function App() {
     },
     {
       name: 'LCA Meta Study',
-      url: null
+      url: 'https://www.tetrapak.com/content/dam/tetrapak/publicweb/gb/en/sustainability/ifeu%20Meta%20Analysis-LCA_climate%20change%20impact.pdf'
     }
   ];
 
