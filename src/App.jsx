@@ -31,7 +31,7 @@ function App() {
     setIsLoading(true);
 
     try {
-      const response = await fetch('/api/chat', {
+      const response = await fetch('https://tetrapak-esg.onrender.com/api/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
