@@ -1,0 +1,11 @@
+{
+  "name": "test-gpt5-nano",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node test-gpt5-nano.js"
+  },
+  "dependencies": {
+    "openai": "^4.20.0"
+  }
+}
